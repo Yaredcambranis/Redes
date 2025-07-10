@@ -1,6 +1,3 @@
-# Query: 
-# ContextLines: 1
-
 # Estándares IEEE y Cableado Estructurado
 
 **Autor:** Yared Cambranis  
