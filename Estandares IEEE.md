@@ -94,10 +94,10 @@ Los estándares IEEE determinan los protocolos y velocidades de transmisión de 
 Ambos son complementarios:
 
 | Estándar       | Función                        | Requiere                        | Ejemplo                        |
-|----------------|--------------------------------|----------------------------------|--------------------------------|
-| IEEE 802.3     | Define velocidades Ethernet    | Cable Cat5e o superior           | 1 Gbps con Cat6                |
-| IEEE 802.11    | Wi-Fi                          | AP inalámbrico conectado al cableado | Wi-Fi 6 sobre red cableada    |
-| TIA/EIA-568    | Normativa para instalación     | Garantiza compatibilidad con IEEE | Diseño del cableado físico    |
+|----------------|-------------------------------|--------------------------------|--------------------------------|
+| IEEE 802.3     | Define velocidades Ethernet    | Cable Cat5e o superior          | 1 Gbps con Cat6                |
+| IEEE 802.11    | Wi-Fi                         | AP inalámbrico conectado al cableado | Wi-Fi 6 sobre red cableada    |
+| TIA/EIA-568    | Normativa para instalación    | Garantiza compatibilidad con IEEE | Diseño del cableado físico    |
 
 Sin un cableado adecuado, los estándares IEEE no pueden funcionar a su máxima capacidad. Asimismo, sin los estándares, el cableado estructurado no sabría qué características debe cumplir.
 
@@ -113,9 +113,10 @@ La correcta aplicación de ambos no solo permite un desempeño óptimo de la red
 
 ## Referencias bibliográficas
 
-- [IEEE Standards Association](https://standards.ieee.org)  
-- [TIA/EIA-568](https://www.tiaonline.org)  
-- [ISO/IEC 11801 – Normas internacionales de cableado](https://www.iso.org)  
-- Cisco Networking Academy – *Fundamentos de redes*  
-- [Universidad Nacional Abierta y a Distancia (UNAD)](https://repository.unad.edu.co)  
-- [INTELIGENT NETWORKING S.A.S. “¿Qué es el cableado estructurado?”](https://inteligentnet.com)
+- Cuazitl, M. (2013). *Redes IEEE 802*. Recuperado de https://mariocuazitl.wordpress.com/wp-content/uploads/2013/05/redesieee802.pdf
+
+- Teleco. (s.f.). *IEEE 802 - Estándares y protocolos*. Recuperado de https://www.teleco.com.br/es/es_ieee802.asp
+
+- Olmos, I. (s.f.). *Cableado estructurado*. Benemérita Universidad Autónoma de Puebla. Recuperado de https://www.cs.buap.mx/~iolmos/redes/8_Cableado_Estructurado.pdf
+
+- Redes Telecom. (s.f.). *Cableado estructurado: qué es, tipos y utilidades*. Recuperado de https://www.redestelecom.es/infraestructuras/cableado-estructurado-que-es-tipos-y-utilidades/
